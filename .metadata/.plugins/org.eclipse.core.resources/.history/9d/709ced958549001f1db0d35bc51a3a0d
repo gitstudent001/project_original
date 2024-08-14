@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+	<h1>validation_test1.jsp</h1>
+	<form:form action="validation_procedure" modelAttribute="developer" method="post">
+
+		이름 : <form:input path="name" /><br>
+		나이 : <form:input path="age" /><br>
+		
+		<form:button type="submit">유효성검사></form:button>
+	</form:form>
+</body>
+</html>    

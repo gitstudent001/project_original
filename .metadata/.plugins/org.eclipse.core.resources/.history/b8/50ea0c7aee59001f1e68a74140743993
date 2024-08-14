@@ -1,0 +1,21 @@
+package com.worldsnack.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.worldsnack.dto.UserDTO;
+
+@Controller
+@RequestMapping("/user")
+public class UserContoller {
+
+	@GetMapping("/test")
+	public String test(@ModelAttribute("loginUserDTO") UserDTO ) {
+		
+		
+		
+		return "test";
+	}
+	
+}

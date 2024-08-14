@@ -1,0 +1,5 @@
+
+[ JSR-303 ]
+
+	@AssertTrue : true 가 아닌 값인 경우 오류 발생함
+	@AssertFalse : true 가 아닌 값인 경우 오류 발생함

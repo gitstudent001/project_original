@@ -1,0 +1,15 @@
+
+[ ValidationCustomMessage ]
+
+	JSR-303 / Hibernate 에서 제공하는
+	Annotation 중에서 일부 메세지는 사용자가
+	설정해서 사용할 수 있음
+	
+	
+	Properties 를 사용해서 메세지 설정하기
+	
+	@Valid 를 수행하면 오류정보가 BindingResult 객체에 저장되는데
+	codes[0] 으로 code 를 가져와서 아래와 같은 형식으로 설정할 수 있음
+	
+	에러종류.B
+	

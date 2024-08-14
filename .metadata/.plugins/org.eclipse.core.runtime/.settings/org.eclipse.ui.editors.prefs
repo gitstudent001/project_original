@@ -1,0 +1,8 @@
+AbstractTextEditor.Color.Background=253,246,227
+AbstractTextEditor.Color.Background.SystemDefault=false
+currentLineColor=254,252,243
+eclipse.preferences.version=1
+lineSpacing=2
+partialcoverage_stylePreferences=NONE
+partialcoverage_text=false
+tabWidth=2

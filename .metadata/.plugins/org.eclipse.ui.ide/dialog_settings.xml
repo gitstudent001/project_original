@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\project\spring\worldSnackDiscountStore"/>
+			<item value="D:\workspace\spring2\boardJava16"/>
+			<item value=""/>
+			<item value="G:\workspace\spring2\26springRestFulAPI"/>
+			<item value="G:\workspace\spring2\25springMyBatisJava"/>
+			<item value="G:\workspace\spring2\22springCustomValidation"/>
+			<item value="G:\workspace\spring2\17springMessageXml"/>
+			<item value="G:\workspace\spring2\20springValidationJSR303"/>
+			<item value="G:\workspace\spring2\19springValidationCustomMessage"/>
+			<item value="G:\workspace\spring2\18springValidation"/>
+			<item value="G:\workspace\spring2\13springApplicationScope"/>
+			<item value="G:\workspace\spring2\12springSessionScopeBeanXml"/>
+			<item value="G:\workspace\spring2\12springSessionScopeBeanJava"/>
+			<item value="G:\workspace\spring2\14springApplicationScopeBeanXml"/>
+			<item value="G:\workspace\spring2\14springApplicationScopeBeanJava"/>
+			<item value="G:\workspace\spring2\10RequestScopeBeanXml"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="D:\workspace\spring2\_lec.zip\boardJava_lec19.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardXml_lec11.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec11.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardXml_lec10.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec10.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardXml_lec09.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec09.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec06.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec05.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec03.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardXml_lec03.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardXml_lec02.zip"/>
+			<item value="G:\workspace\spring2\_lec.zip\boardJava_lec02.zip"/>
+			<item value="G:\workspace\spring2\boardXml01_lec.zip"/>
+			<item value="G:\workspace\spring2\25springMyBatisXml_lec.zip"/>
+			<item value="G:\workspace\spring2\springFrameworkTestLeeSoonShin.zip"/>
+			<item value="G:\workspace\spring2\25springMyBatisJava_lec.zip"/>
+			<item value="G:\workspace\spring2\23springInterceptorXml_lec.zip"/>
+			<item value="G:\workspace\spring2\22springCustomValidation_lec.zip"/>
+			<item value="G:\workspace\spring2\17springMessageXml_lec.zip"/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="581"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

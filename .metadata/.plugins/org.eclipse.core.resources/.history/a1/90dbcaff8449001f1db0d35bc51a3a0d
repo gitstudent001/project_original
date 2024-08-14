@@ -1,0 +1,14 @@
+package com.tjoeun.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class ValidationJSR303Controller {
+
+	@GetMapping("/validation_test1")
+	public String validation_test1() {
+		return "validation_test1";
+	}
+	
+}

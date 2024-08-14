@@ -1,0 +1,22 @@
+package com.tjoeun.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.support.ReloadableResourceBundleMessageSource;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class MessageController {
+	// MessageSource 주입 받기
+	@Autowired
+	ReloadableResourceBundleMessageSource res;
+
+	@GetMapping("/test1")
+	public void test1() {
+		String name1 = res.getMessage("person.name", null, null); 
+		String name2 = res.getMessage("student.name", null, null);
+		
+		System.out.println("name1 : " + name1);
+		System.out.println("name2 : " + name2);
+	}
+}

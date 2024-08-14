@@ -1,0 +1,6 @@
+package com.worldsnack.dto;
+
+@
+public class UserTableDTO {
+
+}

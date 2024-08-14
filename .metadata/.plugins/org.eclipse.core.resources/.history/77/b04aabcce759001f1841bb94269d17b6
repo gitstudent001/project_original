@@ -1,0 +1,10 @@
+
+
+작업 내용
+
+front 단에서 주요 link 설정함
+
+HomeController.java
+MainController.java
+BoardController.java
+UserController.java

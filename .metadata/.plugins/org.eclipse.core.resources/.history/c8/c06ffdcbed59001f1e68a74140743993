@@ -1,0 +1,23 @@
+package com.worldsnack.service;
+
+import javax.annotation.Resource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.worldsnack.dao.UserDAO;
+import com.worldsnack.dto.UserDTO;
+
+@Service
+public class UserService {
+	
+	@Autowired
+	private UserDAO userDAO;
+	
+	// Session Scope 에 생성된 UserDTO 주입받기
+	@Resource(name="loginUserDTO")
+	private UserDTO loginUserDTO;
+	
+	
+	
+}

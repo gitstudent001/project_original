@@ -1,0 +1,5 @@
+package com.worldsnack.dao;
+
+public class UserDAO {
+
+}

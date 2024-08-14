@@ -1,0 +1,14 @@
+
+[ JSR-303 ]
+
+	@AssertTrue : true 가 아닌 값인 경우 오류 발생함
+	@AssertFalse : false 가 아닌 값인 경우 오류 발생함
+	
+	@Max(값) / @Min(값)
+	
+	@DecimalMax(value=값, inclusive=true/false)
+	  ㄴ value=값, inclusive=true - 값 이하
+	  ㄴ value=값, inclusive=false - 값 미만
+	  
+		  
+	

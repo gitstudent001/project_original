@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="springFrameworkTest2KimSeonOh"/>
+			<item value="boardXmlTest01"/>
+			<item value="boardJavaTest01"/>
+			<item value="testJava02"/>
+			<item value="boardXml01"/>
+			<item value="25springMyBatisXml"/>
+			<item value="boardJava01"/>
+			<item value="26springRestFulAPI"/>
+			<item value="springFrameworkTestKimSeonOh"/>
+			<item value="23springInterceptorXml"/>
+			<item value="25springMyBatisJava"/>
+			<item value="24springExceptionHandling"/>
+			<item value="23springInterceptorJava"/>
+			<item value="17springMessageXml"/>
+			<item value="22springCustomValidation"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="springFrameworkTest2KimSeonOh"/>
+			<item value="boardXmlTest01"/>
+			<item value="boardJavaTest01"/>
+			<item value="testJava02"/>
+			<item value="boardXml01"/>
+			<item value="25springMyBatisXml"/>
+			<item value="boardJava01"/>
+			<item value="26springRestFulAPI"/>
+			<item value="springFrameworkTestKimSeonOh"/>
+			<item value="23springInterceptorXml"/>
+			<item value="25springMyBatisJava"/>
+			<item value="24springExceptionHandling"/>
+			<item value="23springInterceptorJava"/>
+			<item value="17springMessageXml"/>
+			<item value="22springCustomValidation"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

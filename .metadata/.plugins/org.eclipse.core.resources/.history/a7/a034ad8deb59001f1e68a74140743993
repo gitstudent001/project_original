@@ -1,0 +1,15 @@
+package com.worldsnack.dto;
+
+import lombok.Data;
+
+@Data
+public class UserTableDTO {
+	
+	UserIdx
+	UserName
+	UserId
+	UserPw
+	UserEmail
+	UserNickname
+	
+}

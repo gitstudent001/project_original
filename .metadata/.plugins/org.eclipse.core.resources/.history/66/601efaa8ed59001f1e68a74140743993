@@ -1,0 +1,5 @@
+package com.worldsnack.service;
+
+public class UserService {
+
+}

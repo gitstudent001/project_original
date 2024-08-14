@@ -1,0 +1,21 @@
+package com.tjoeun.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.tjoeun.dto.Developer;
+
+@Controller
+public class ValidationJSR303Controller {
+
+	@GetMapping("/validation_test1")
+	public String validation_test1(Developer developer) {
+		
+		
+		
+		return "validation_test1";
+	}
+	
+	@PostMapping("validation")
+	
+}

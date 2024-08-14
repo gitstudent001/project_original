@@ -1,0 +1,8 @@
+package com.worldsnack.dto;
+
+import lombok.Data;
+
+@Data
+public class UserTableDTO {
+	
+}

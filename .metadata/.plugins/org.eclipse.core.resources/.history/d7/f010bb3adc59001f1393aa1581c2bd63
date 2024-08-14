@@ -1,0 +1,11 @@
+package com.tjoeun.validator;
+
+import org.springframework.validation.Errors;
+import org.springframework.validation.Validator;
+
+import com.tjoeun.dto.UserDTO;
+
+public class UserValidator implements Validator{
+
+	
+} // class

@@ -1,0 +1,16 @@
+
+Validation (유효성 검사)
+
+	web application 에서 사용자 입력에 대해서
+	유효성 검사할 때 설정함 Spring Framework 를 사용해서 설정함
+	
+	Spring Framework 는 JSR-303 protocol 의 유효성 검사 library 를 사용함
+	Bean 에 data 가 입력될 때(setter)
+	어느 종류의 유효성 검사를 할 것인지 annotation 으로 지정하고
+	해당 조건에 맞지 않으면 입력값이 오류가 있다는 정보(error)를
+	전달함 <-- 이 정보를 사용해서 유효성 검사를 진행함	
+	
+	
+	
+	pom.xml 에 library 추가하기
+	   
